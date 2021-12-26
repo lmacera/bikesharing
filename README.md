@@ -7,8 +7,8 @@ For this analysis we created a set of visualizations to:
 -	Show the breakdown of user types
 -	Show the number of bike trips for each type of user and gender for each day of the week
 ## Resources
--	- Data Source: 201908-citibike-tripdata.csv
--	-  Software: Python 3.6.1, Jupyter Notebook, Tableau
+-	Data Source: 201908-citibike-tripdata.csv
+-	Software: Python 3.6.1, Jupyter Notebook, Tableau
 ## Results 
 Based on the results shown below the bikesharing presentations there are clear trends the bikesharing data for the month of August.
 
